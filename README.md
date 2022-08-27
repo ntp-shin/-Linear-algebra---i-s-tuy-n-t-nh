@@ -11,3 +11,8 @@
 - Tìm ma trận nghịch đảo
 - Áp dụng Gauss Jordan nâng cao
 
+*Project 3: Linear Regression*
+- Hồi quy tuyến tính
+- Tìm đường thẳng gần đúng nhất
+- Học từ input + output cho trước
+- Dự đoán output - qua một input mới 
