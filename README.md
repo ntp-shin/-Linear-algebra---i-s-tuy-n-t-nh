@@ -1,7 +1,7 @@
 # -Linear-algebra HCMUS
 **Toán ứng dụng và thống kê - Đại số tuyến tính**
 
-<img src = ".\image\download.png">
+<img src = ".\image\abc.png">
 *Project 1: Gauss Jordan*
 - Giải hệ phương trình tuyến tính 
 - Đưa về Ma trận bậc thang
